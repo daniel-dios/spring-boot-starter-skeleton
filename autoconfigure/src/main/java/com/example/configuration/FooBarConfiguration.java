@@ -13,4 +13,3 @@ public class FooBarConfiguration {
         System.setProperty("foo", "bar");
     }
 }
-
