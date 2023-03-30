@@ -20,7 +20,7 @@ java {
 }
 
 plugins {
-    kotlin("jvm") version "1.8.10"
+    kotlin("jvm") version "1.8.20"
     id("maven-publish")
     id("com.jfrog.artifactory") version "4.31.7"
 }
