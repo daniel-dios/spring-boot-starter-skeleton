@@ -22,7 +22,7 @@ java {
 plugins {
     kotlin("jvm") version "1.8.10"
     id("maven-publish")
-    id("com.jfrog.artifactory") version "4.31.7"
+    id("com.jfrog.artifactory") version "4.31.9"
 }
 
 subprojects {
